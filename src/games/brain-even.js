@@ -1,9 +1,4 @@
-import { randomNumber, isEven } from '../helpers.js';
-
-const ANSWERS = {
-  YES: 'yes',
-  NO: 'no',
-};
+import { randomNumber, isEven, ANSWERS } from '../helpers.js';
 
 const description = `Answer "${ANSWERS.YES}" if the number is even, otherwise answer "${ANSWERS.NO}".`;
 

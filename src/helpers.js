@@ -10,3 +10,7 @@ export const randomOperation = (operations) => {
 
 export const ROUND_COUNT = 3;
 export const OPERATIONS = ['+', '-', '*'];
+export const ANSWERS = {
+  YES: 'yes',
+  NO: 'no',
+};
