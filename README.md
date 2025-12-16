@@ -15,3 +15,6 @@
 
 ### Demo игры
 [Арифметическая прогрессия](https://asciinema.org/a/1fKH3L0kwPPHa72oVZ4JA2hSz)
+
+### Demo игры
+[Простое ли число?](https://asciinema.org/a/cb4zzTsuILT6UDo1PJz0O3JBZ)
