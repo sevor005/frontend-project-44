@@ -6,3 +6,6 @@
 
 ### Demo игры
 [Проверка на чётность](https://asciinema.org/a/izKlR8gzLb7x4xje47T7LHnkL)
+
+### Demo игры
+[Калькулятор](https://asciinema.org/a/mMiVIgfhIr8AewHHxEjCtnsS2)
