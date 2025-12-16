@@ -12,3 +12,6 @@
 
 ### Demo игры
 [НОД](https://asciinema.org/a/8s9tScYGOLkFNrrswGwVoRV9O)
+
+### Demo игры
+[Арифметическая прогрессия](https://asciinema.org/a/1fKH3L0kwPPHa72oVZ4JA2hSz)
