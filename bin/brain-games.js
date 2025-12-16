@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import { runGame } from '../src/cli.js'
+import { getName } from '../src/cli.js'
 
-runGame();
+getName();
