@@ -9,3 +9,6 @@
 
 ### Demo игры
 [Калькулятор](https://asciinema.org/a/mMiVIgfhIr8AewHHxEjCtnsS2)
+
+### Demo игры
+[НОД](https://asciinema.org/a/8s9tScYGOLkFNrrswGwVoRV9O)
